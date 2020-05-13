@@ -174,6 +174,3 @@ while 'cot' in st:
     st = st[:pos] + '1/tan' + st[pos + 3:]
 st=bra(st)
 print(eva(st))
-
-#7-8*-9*((2+4.11+-2.10)^-15)
-#3*sin(6*-9)+cos(9^-2)--sec(22.5)*-((cosec(45)+cot(50))*-4)
